@@ -1,0 +1,11 @@
+{
+  "author": "Kacper Rejniak",
+  "name": "GrupaZawadzka",
+  "main": "index.js",
+  "version": "1.0.0-beta.1",
+  "scripts": { "start": "node index.js"},
+  "dependencies": {
+    "discord.js": "^12.5.0",
+    "node.js": "^0.0.1-security"
+  }
+}
